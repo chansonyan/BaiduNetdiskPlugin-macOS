@@ -1,5 +1,5 @@
 # BaiduNetdiskPlugin-macOS
-
+2019-03-17 可以用 试用vip
 ![platform](https://img.shields.io/badge/platform-macos-lightgrey.svg)  [![GitHub license](https://img.shields.io/github/license/CodeTips/BaiduNetdiskPlugin-macOS.svg)](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS/blob/master/LICENSE)
 
 ![baidubetdiskplugin](./Other/Screenshots/baidubetdiskplugin.png)
